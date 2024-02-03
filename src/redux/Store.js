@@ -20,4 +20,4 @@ const store = configureStore({
 });
 export default store;
 
-export const server = 'https://3s22yz-4000.csb.app/api/v1';
+export const server = 'https://yrhycs-4000.csb.app/api/v1';

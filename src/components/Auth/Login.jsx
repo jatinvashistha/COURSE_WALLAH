@@ -20,7 +20,7 @@ const Login = () => {
   return ( <Container h={'95vh'} >
   
   <VStack h={'full'} justifyContent="center" spacing='16'>
-    <Heading children={"Welecom to Official Website"}/>
+    <Heading children={"Welecome to Official Website"}/>
     <form 
     onSubmit={submitHandler}
     style={{width:'100%'}}>
